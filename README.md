@@ -5,7 +5,7 @@ ABOUT ME -
 
 ![SREERAG K R](img/1656739175540.jpg)
 
-1. exp1
+1. [exp1](prt/1.JPG)
 2. exp2
 3. exp3
 
