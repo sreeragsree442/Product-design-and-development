@@ -6,7 +6,7 @@
 ![SREERAG K R](img/1656739175540.jpg)
 
 1. [exp1](prt/1.JPG)
-2. exp2
+2. [exp2](prt/2.JPG)
 3. exp3
 
 [***my works***](https://docs.google.com/presentation/d/1Kz_6uP92gOz2dWUfsiBHR37XtzbvrfjhkwEnXRrWEso/edit?usp=sharing)
